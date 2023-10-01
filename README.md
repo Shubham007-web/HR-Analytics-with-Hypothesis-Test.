@@ -1,5 +1,3 @@
-# HR-Analytics-with-Hypothesis-Test.
-HR analytics Data Science project
 # 📊 Employee Attrition Analysis: Unlocking the Secrets to Employee Retention 📊
 
 Welcome to a comprehensive exploration journey where we dive deep into the world of employee data to uncover the hidden patterns and insights related to attrition and workplace retention! 🌟
