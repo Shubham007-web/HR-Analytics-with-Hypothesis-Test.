@@ -5,7 +5,7 @@ Welcome to a comprehensive exploration journey where we dive deep into the world
 ## 🚀 Project Overview 🚀
 In this project, we utilize a rich HR dataset to illuminate the various dimensions of employee attrition and reveal the critical factors impacting workplace retention. Our analytical journey is encapsulated in a detailed Jupyter notebook, providing an immersive experience filled with enlightening visualizations and insightful observations.
 
-### 🌐 Dataset Overview 🌐
+### 🌐 [Dataset Overview](https://github.com/Shubham007-web/HR-Analytics-with-Hypothesis-Test./blob/main/WA_Fn-UseC_-HR-Employee-Attrition.csv) 🌐
 The dataset serves as the backbone of our exploration, enveloping a plethora of employee attributes crucial for discerning intricate patterns related to attrition and retention. Here's a sneak peek into the dataset's features:
 - 🕒 **Age**: Mirror to an employee's experience and wisdom.
 - 🏁 **Attrition**: Indicator of employee’s continuity status with the company.
