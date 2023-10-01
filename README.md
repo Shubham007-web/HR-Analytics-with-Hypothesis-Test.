@@ -30,7 +30,7 @@ The dataset serves as the backbone of our exploration, enveloping a plethora of 
 ## 🛠️ Setup & Installation 🛠️
 ```sh
 # Clone the mystical repository
-git clone <https://github.com/Shubham007-web/HR-Analytics-with-Hypothesis-Test..git>
+git clone https://github.com/Shubham007-web/HR-Analytics-with-Hypothesis-Test..git
 
 # Enter the realm of our project
 cd HR-Analytics-with-Hypothesis-Test
